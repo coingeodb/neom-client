@@ -1,0 +1,44 @@
+.homeBanner-main{
+    /* background-color: aqua; */
+}
+.bg-video{
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.homeBanner-main-container{
+    position: absolute;
+    bottom:0;
+
+    padding: 0 0 0 70px;
+
+    h1{
+        color: #FFF;
+    text-shadow: 0px 0px 50px rgba(29, 31, 34, 0.30);
+    font-family: Arial;
+    font-size: 27.5px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 65.44px; /* 237.964% */
+    letter-spacing: 4.98px;
+    text-transform: uppercase;
+    }
+    p{
+        color: #FFF;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30.23px; /* 143.952% */
+        margin-bottom: 70px;
+    }
+
+    .homeBanner-main-button{
+        margin-bottom: 70px;
+    }
+}

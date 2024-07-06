@@ -1,0 +1,48 @@
+.sindalahMarina-main-top, .sindalahMarina-main-bottom{
+    display: flex;
+    flex-direction: row;
+
+}
+.sindalahMarina-main-content-container{
+
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin-top: 56px;
+    h2{
+        color: #1D1F22;
+        font-family: Arial;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 40.03px; /* 142.964% */
+        letter-spacing: 2.55px;
+        text-transform: uppercase;
+    }
+    p{
+        color: #1D1F22;
+        font-family: Arial;
+        font-size: 21px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 31.05px; /* 147.857% */
+        width: 410px;
+    }
+}
+.sindalahMarina-main-image-container{
+    img{
+        /* position: absolute;
+        right: 0; */
+    }
+}
+.sindalahMarina-main-bottom{
+    .sindalahMarina-main-image-container{
+        
+    }
+    .sindalahMarina-main-content-container{
+        
+    }
+}

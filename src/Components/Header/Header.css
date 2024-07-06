@@ -1,0 +1,66 @@
+.header-main{
+    background-color: #1D1F22;
+    height: 140px;
+    padding: 0 70px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 0.5px solid #D2D2D3;
+    .header-main-navLinks{
+        width: 764px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        /* justify-content: center; */
+
+
+        
+        .header-main-navLinks-link{
+            padding: 10px 19px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+
+            color: #D2D2D3;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 100;
+            line-height: 26.32px; /* 188% */
+            letter-spacing: 1.68px;
+            text-transform: uppercase;
+        }
+
+    }
+
+    .header-main-getInTouch{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        
+        .header-main-getInTouch-link{
+            margin: 10px 19px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+
+            color: #D2D2D3;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 100;
+            line-height: 26.32px; /* 188% */
+            letter-spacing: 1.68px;
+            text-transform: uppercase;
+        }
+
+    }
+
+
+}

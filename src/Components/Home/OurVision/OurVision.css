@@ -1,0 +1,40 @@
+.ourVision-main{
+    /* opacity: 0.3; */
+    background: #1D1F22;
+    /* opacity: 0.3; */
+    /* background-color: black; */
+    /* background: linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0.33) 50%, #000 100%); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 70px;
+}
+.ourVision-main-head{
+    color: #FFF;
+    text-align: center;
+    font-family: Arial;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 52.91px; /* 143% */
+    letter-spacing: 3.36px;
+    text-transform: uppercase;
+    margin: 20px;
+}
+.ourVision-main-subHead{
+    color: #FFF;
+    text-align: center;
+    font-family: Arial;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.23px; /* 143.952% */
+
+    width: 571.92px;
+    height: 60.46px;
+    margin: 40px 0;
+}
+.ourVision-main-card-container{
+    display: flex;
+    flex-direction: row;
+}
