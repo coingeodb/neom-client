@@ -1,5 +1,5 @@
 import "./ContactUs.css";
-import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
+
 
 import TelegramIcon from "@mui/icons-material/Telegram";
 import MailOutlineIcon from "@mui/icons-material/MailOutline";
@@ -25,11 +25,11 @@ const ContactUs = () => {
                   window.scrollTo({top: 0, behavior: "smooth"})
                 }} >INVEST IN THE LINE</button>
       </div>
-      <a className="contactSocial" href="#" target="_blank" rel="noreferrer">
+      <a className="contactSocial" href="www.google.com" target="_blank" rel="noreferrer">
         <div className="contactSocialIcon">
           <TelegramIcon fontSize="large"  />
         </div>
-        <a className="contactSocialIcon" href="#" target="_blank" rel="noreferrer">
+        <a className="contactSocialIcon" href="www.google.com" target="_blank" rel="noreferrer">
           <WhatsAppIcon fontSize="large" />
         </a>
         <a className="contactSocialIcon" href="mailto: a@b.com" target="_blank" rel="noreferrer">
