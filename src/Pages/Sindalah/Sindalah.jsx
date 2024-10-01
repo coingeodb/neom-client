@@ -24,7 +24,7 @@ const Sindalah = () => {
                     perfect year-round climate, Sindalah will become a global yachting hub and a sustainable
                     luxury destination featuring world-class cuisine, shopping and wellness. Spread over
                     840,000 square meters, this island escape will offer fine hospitality and unforgettable
-                    experiences above and below the water, while conserving the area's natural beauty. This is the update I have made."
+                    experiences above and below the water, while conserving the area's natural beauty. This is the update I have made again."
                 timlineText1='HOME'
                 timlineText2='INVEST'
                 timlineText3='SINDALAH'
