@@ -23,7 +23,7 @@ const Sindalah = () => {
                     gateway to the Red Sea, it will be an exciting and attractive tourism location. With a
                     perfect year-round climate, Sindalah will become a global yachting hub and a sustainable
                     luxury destination featuring world-class cuisine, shopping and wellness. Spread over
-                    840,000 square meters, this island escape will offer fine hospitality and unforgettable
+                    840,000 square meters, this island escape will offer a fine hospitality and unforgettable
                     experiences above and below the water, while conserving the area's natural beauty."
                 timlineText1='HOME'
                 timlineText2='INVEST'
